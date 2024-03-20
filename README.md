@@ -8,3 +8,5 @@ Uporabljeni elementi:
 - Breadboard
 - Konektorij
 - 6x upor 220Ω
+
+

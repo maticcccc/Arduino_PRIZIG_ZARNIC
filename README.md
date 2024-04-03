@@ -9,4 +9,6 @@ Uporabljeni elementi:
 - Konektorij
 - 6x upor 220Ω
 
+![vhodi](https://github.com/maticcccc/Arduino_PRIZIG_ZARNIC/assets/164142820/5c829871-3dff-48d4-b642-bac8ae2ada4d)
+
 

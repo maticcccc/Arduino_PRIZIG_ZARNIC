@@ -37,8 +37,9 @@ https://github.com/maticcccc/Arduino_PRIZIG_ZARNIC/assets/164142820/70256d62-fdb
 <br>
 <br>
 <br>
-
-
+KOMENTAR:
+Pri izdelovanju naloge je ves potekalo tako kot mora. Edina težava, ki sem jo imel je bila pri ustvarjanju vezalne sheme v programu EasyEDA.
+Menim pa, da zaradi tega ker je projekt dosti enostaven ni potrebne nobene izbolšave. 
 
   
 

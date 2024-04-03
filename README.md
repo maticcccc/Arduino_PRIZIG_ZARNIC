@@ -8,9 +8,13 @@ Uporabljeni elementi:
 - Breadboard
 - Konektorij
 - 6x upor 220Ω
-
+  <br>
+  <br>
+  <br>
 
 ![vhodi](https://github.com/maticcccc/Arduino_PRIZIG_ZARNIC/assets/164142820/5c829871-3dff-48d4-b642-bac8ae2ada4d)
-
+  <br>
+  <br>
+  <br>
 ![izhodi](https://github.com/maticcccc/Arduino_PRIZIG_ZARNIC/assets/164142820/a647a004-b92d-4f5e-814a-95e9a9c51bfe)
 

@@ -29,7 +29,10 @@ Uporabljeni elementi:
   <br>
   <br>  
 
-[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://github.com/maticcccc/Arduino_PRIZIG_ZARNIC/assets/164142820/b7c0e068-eb03-454e-b835-05277a9570c1))
+
+
+https://github.com/maticcccc/Arduino_PRIZIG_ZARNIC/assets/164142820/70256d62-fdba-44da-a466-102ae4ac8425
+
 <br>
 <br>
 <br>

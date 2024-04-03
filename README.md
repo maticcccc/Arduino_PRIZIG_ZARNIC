@@ -28,7 +28,12 @@ Uporabljeni elementi:
   <br>
   <br>
   <br>  
+
 https://github.com/maticcccc/Arduino_PRIZIG_ZARNIC/assets/164142820/b7c0e068-eb03-454e-b835-05277a9570c1
+<br>
+<br>
+<br>
+<br>
 
 
 
